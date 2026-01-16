@@ -1,5 +1,5 @@
 # sql-data-warehouse-project
-🏗️   ## Data Architecture
+## 🏗️ Data Architecture
 
 <img width="1544" height="912" alt="data_architecture" src="https://github.com/user-attachments/assets/b01a73ac-6168-408f-b075-54881fe61c98" />
 
@@ -24,7 +24,7 @@ This project involves:
 4.Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 
 
-🚀 ## Project Requirements
+## 🚀 Project Requirements
 
 ## Building the Data Warehouse (Data Engineering)
 
