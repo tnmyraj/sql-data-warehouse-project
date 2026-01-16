@@ -1,5 +1,5 @@
 # sql-data-warehouse-project
-🏗️ ## Data Architecture
+🏗️   ## Data Architecture
 
 <img width="1544" height="912" alt="data_architecture" src="https://github.com/user-attachments/assets/b01a73ac-6168-408f-b075-54881fe61c98" />
 
@@ -34,28 +34,29 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ### Specifications
 
-Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
+* Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
 
-Data Quality: Cleanse and resolve data quality issues prior to analysis.
+* Data Quality: Cleanse and resolve data quality issues prior to analysis.
 
-Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
+* Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
 
-Scope: Focus on the latest dataset only; historization of data is not required.
+* Scope: Focus on the latest dataset only; historization of data is not required.
 
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ---
 
 
-BI: Analytics & Reporting (Data Analysis)
+ ## BI: Analytics & Reporting (Data Analysis)
 
-Objective
+### Objective
 
-Develop SQL-based analytics to deliver detailed insights into:
+* Develop SQL-based analytics to deliver detailed insights into:
 
-Customer Behavior
+* Customer Behavior
 
-Product Performance
+* Product Performance
 
-Sales Trends
+* Sales Trends
+
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
